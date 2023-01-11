@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "React Native Todo App",
+    "slug": "education-rn-app",
+    "version": "1.0.0",
+    "description": "This is a todo App developed in React Native",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+    }
+  }
+}
